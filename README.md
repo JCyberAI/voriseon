@@ -1,4 +1,4 @@
-# horiseon
+# voriseon
 This  is homework #1 from my Full Stack Certification program
 What i am tasked to do is play a developer role in a real world situation.
 The real world situation in this HW assignment is a company submits a ticket for help on their websites funcionality. I am the developer who was tasked with the submission ticket.
