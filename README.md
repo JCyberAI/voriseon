@@ -1,5 +1,4 @@
 # voriseon
-This  is homework #1 from my Full Stack Certification program
 
 What i am tasked to do is play a developer role in a real world situation.
 The real world situation in this HW assignment is for the developer to assist a company who submits a ticket for assistance on their website's code.
