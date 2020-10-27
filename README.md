@@ -1,7 +1,7 @@
 # voriseon
 
 What i am tasked to do is play a developer role in a real world situation.
-The real world situation in this HW assignment is for the developer to assist a company who submits a ticket for assistance on their website's code.
+The real world situation is for the developer to assist a company who submits a ticket for assistance on their website's code.
 
 The exercise teaches a process called Code Refactoring - in other words clean, debug, tighten, and comment on exisiting code without changing its underlying structure.
 
